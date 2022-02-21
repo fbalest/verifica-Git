@@ -12,10 +12,10 @@
 ## Secondo esercizio
 
 1. Creare una **copia locale** di questo repository .
-1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file .css (in più commit):
+1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
     1. Modificare il colore di sfondo,
     1. Modificare la dimensione del paragrafo,
-    1. Modificare l'allineamento del tag H1.
+    1. Modificare l'allineamento del tag *H1*.
 1. Riportare sul main solo la modifica i. e iii.
 1. Allineare la repository remota su GitHub con le modifiche effettuate.
 1. Risolvere eventuali conflitti.
