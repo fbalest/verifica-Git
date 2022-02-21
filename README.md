@@ -7,7 +7,7 @@
     1. Aggiungere un nuovo file,
     1. Modificare il contenuto del file.
 1. Creare un repository su GitHub e collegarlo a quello locale.
-1. Allineare la repository remota su GitHub con le modifiche effettuate.
+1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 
 ## Secondo esercizio
 
@@ -17,5 +17,5 @@
     1. Modificare la dimensione del paragrafo,
     1. Modificare l'allineamento del tag *H1*.
 1. Riportare sul main solo la modifica i. e iii.
-1. Allineare la repository remota su GitHub con le modifiche effettuate.
+1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. Risolvere eventuali conflitti.
