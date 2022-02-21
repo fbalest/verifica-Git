@@ -16,6 +16,6 @@
     1. Modificare il colore di sfondo,
     1. Modificare la dimensione del paragrafo,
     1. Modificare l'allineamento del tag H1.
-1. Riportare sul main solo la modifica 1 e 3.
+1. Riportare sul main solo la modifica i e iii.
 1. Allineare la repository remota su GitHub con le modifiche effettuate.
 1. Risolvere eventuali conflitti.
