@@ -1,4 +1,4 @@
-# Verifica di laboratorio Git
+# Esercitazione di preparazione alla verifica di laboratorio Git
 
 ## Primo esercizio
 
